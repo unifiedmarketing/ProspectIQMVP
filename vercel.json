@@ -3,7 +3,7 @@
   "outputDirectory": ".next",
   "framework": "nextjs",
   "env": {
-    "ANTHROPIC_API_KEY": "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",
-    "GOOGLE_PLACES_API_KEY": "AIzaSyAsmG5Ke_ew6UXCQyX6y_9EL2EoQERFxu4"
+    "ANTHROPIC_API_KEY": "@anthropic_api_key",
+    "GOOGLE_PLACES_API_KEY": "@google_places_api_key"
   }
 }
